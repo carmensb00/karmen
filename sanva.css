@@ -7,7 +7,7 @@ div {
 
 h1 {
     padding: 10px;
-    color: #711DB0;
+    color: #d7d7d7;
 }
 
 
@@ -16,7 +16,7 @@ button {
     color: white;
     width: 80px;
     height: 40px;
-    border: 4px solid #711DB0;
+    border: 4px solid #d7d7d7;
     border-radius: 10px;
     background-color: transparent;
     font-size: xx-large;
